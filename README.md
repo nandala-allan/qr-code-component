@@ -12,8 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 After being away from the development world for a while. i decided i should go back to the basics and had to begin with this challenge.

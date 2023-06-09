@@ -18,11 +18,11 @@ After being away from the development world for a while. i decided i should go b
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![./images/screenshot.png)]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcodecomponent-VuzbFcwc22)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcodecomponent-VuzbFcwc22]()
 - Live Site URL: [https://roaring-moonbeam-5808dc.netlify.app/](https://your-live-site-url.com)
 
 ## My process
@@ -46,4 +46,4 @@ I want to be able to write css and sass proficiently
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Allanlcomander)
+- Frontend Mentor - [@Allanlcomander](https://www.frontendmentor.io/profile/Allanlcomander)
